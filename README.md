@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Banky! 👋
 
-<!--
-**BankTNBD/BankTNBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a high school student in Thailand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+C, C++, Javascript, HTML, CSS...
+
+**Languages:** C, C++, Javascript, HTML, CSS, Dart
+
+**Frameworks:** React, Node, Express, Flutter
+
+**Tools:** GitHub, Visual Studio Code
+
+## 🔗 Links
+- [linktree](https://linktree.iambanky.com)
+
+- [Discord](https://discord.com/users/784066460627632148)
